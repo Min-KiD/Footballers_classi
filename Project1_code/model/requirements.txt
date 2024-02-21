@@ -1,0 +1,9 @@
+numpy
+matplotlib
+opencv-python
+PyWavelets
+scikit-learn
+pandas
+seaborn
+torch
+flask
